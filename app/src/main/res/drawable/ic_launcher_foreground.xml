@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bag handles -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,43 C44,35 48,31 54,31 C60,31 64,35 64,43" />
+    <!-- Shopping Bag body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,43 L73,43 L78,77 C78,79.2 76.2,81 74,81 L34,81 C31.8,81 30,79.2 30,77 Z" />
+    <!-- Purple accent inner cut / badge on bag -->
+    <path
+        android:fillColor="#6C5CE7"
+        android:pathData="M48,51 L60,51 C61.1,51 62,51.9 62,53 L62,65 C62,66.1 61.1,67 60,67 L48,67 C46.9,67 46,66.1 46,65 L46,53 C46,51.9 46.9,51 48,51 Z" />
+    <!-- Star sparkle on top right representing AI -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M73,34 L74.5,39 L79.5,40.5 L74.5,42 L73,47 L71.5,42 L66.5,40.5 L71.5,39 Z" />
+    <!-- Secondary small sparkle -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M37,34 L38,36.5 L40.5,37.5 L38,38.5 L37,41 L36,38.5 L33.5,37.5 L36,36.5 Z" />
+    <!-- Light lightning / AI glyph inside purple badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,54 L51,60 L54,60 L53,64 L57,58 L54,58 Z" />
+</vector>

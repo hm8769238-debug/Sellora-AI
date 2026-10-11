@@ -1,0 +1,6 @@
+{
+  "name": "Sellora AI",
+  "description": "Smart Sales Assistant for Online Businesses. AI-powered customer replies, product catalog, lead management, and marketing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
